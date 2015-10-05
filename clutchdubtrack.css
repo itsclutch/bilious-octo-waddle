@@ -127,9 +127,9 @@
 }
 /* Clutch */
 #chat li.user-5607f10927456e030071ceff p a.username::before{
-  content: "CSS Owner";
+  content: "AwesomeUser";
   font-size:.7em;
-  background:turquoise;
+  background:darkmagenta;
   margin-right: 3px;
   color:white;
   text-align:center;
