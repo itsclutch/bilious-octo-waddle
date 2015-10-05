@@ -124,7 +124,7 @@
   box-shadow:0 0 5px #333;
 }
 /* Clutch */
-#chat li.user-56005230239f1303009c88b4 p a.username::before{
+#chat li.user-5607f10927456e030071ceff p a.username::before{
   content: "User";
   font-size:.7em;
   background:darkmagenta;
