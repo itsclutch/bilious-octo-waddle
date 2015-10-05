@@ -125,9 +125,35 @@
 }
 /* Clutch */
 #chat li.user-5607f10927456e030071ceff p a.username::before{
-  content: "User";
+  content: "CSS Owner";
   font-size:.7em;
-  background:darkmagenta;
+  background:turquoise;
+  margin-right: 3px;
+  color:white;
+  text-align:center;
+  line-height:20px;
+  border-radius:40%;
+  padding: 0px 4px;
+  box-shadow:0 0 5px #333;
+}
+/* Iambubbles */
+#chat li.user-52c8ef6037e22b0200000005 p a.username::before{
+  content: "DUB Owner";
+  font-size:.7em;
+  background:lime;
+  margin-right: 3px;
+  color:white;
+  text-align:center;
+  line-height:20px;
+  border-radius:40%;
+  padding: 0px 4px;
+  box-shadow:0 0 5px #333;
+}
+/* NB3 */
+#chat li.user-56008cfa239f1303009c93d0 p a.username::before{
+  content: "ROOM Owner";
+  font-size:.7em;
+  background:turquoise;
   margin-right: 3px;
   color:white;
   text-align:center;
